@@ -1,0 +1,1 @@
+var WPRecipeMakerAdmin;(WPRecipeMakerAdmin=void 0===WPRecipeMakerAdmin?{}:WPRecipeMakerAdmin)["wp-recipe-maker-premium/dist/blocks-premium"]={};

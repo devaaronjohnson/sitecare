@@ -1,0 +1,1 @@
+var WPRecipeMakerAdmin;(()=>{"use strict";var e={r:e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})}},r={};e.r(r),(WPRecipeMakerAdmin=void 0===WPRecipeMakerAdmin?{}:WPRecipeMakerAdmin)["wp-recipe-maker-premium/dist/blocks-pro"]=r})();

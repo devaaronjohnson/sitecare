@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+input.widefat._url {
+    width: auto;
+}
+
+.sitecare-toolkit-image-wrapper img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.sitecare-author-box-widget .author-box-name,
+.sitecare-author-box-widget .author-box-bio,
+.sitecare-author-box-widget .author-box-button {
+    text-align: center;
+}

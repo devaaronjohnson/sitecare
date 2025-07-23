@@ -1,0 +1,1332 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SiteCare Toolkit\n"
+"POT-Creation-Date: 2021-03-20 22:09-0400\n"
+"PO-Revision-Date: 2021-03-20 22:09-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sitecare-toolkit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-sitecare-toolkit-admin-settings.php:605
+msgid "Choose File"
+msgstr ""
+
+#: admin/class-sitecare-toolkit-admin-settings.php:626
+msgid "Choose Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-sitecare-toolkit-admin-settings.php:713
+#: admin/class-sitecare-toolkit-admin-settings.php:714
+msgid "SiteCare Toolkit"
+msgstr ""
+
+#: admin/class-sitecare-toolkit-admin-settings.php:723
+msgid "SiteCare Toolkit Settings"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:67
+msgid "Scripts"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:77
+msgid "Slick.js"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:78
+msgid "Enable the Slick.js script"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:88
+msgid "machHeight.js"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:89
+msgid "Enable the matchHeight.js script"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:99
+msgid "FontAwesome"
+msgstr ""
+
+#: admin/sitecare-toolkit-admin-settings-init.php:100
+msgid "Enable the FontAwesome v5.15.2 CSS"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:35
+msgid ""
+"It is required to pass the single, plural and slug strings to "
+"sitecare_toolkit_create_cpt"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:62
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:64
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:65
+#, php-format
+msgid "%s Attributes"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:66
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:67
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:68
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:69
+msgid "Add New"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:70
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:71
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:72
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:73
+#: includes/sitecare-toolkit-custom-post-types.php:74
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:75
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:76
+msgid "Not found"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:77
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:78
+msgid "Featured Image"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:79
+msgid "Set featured image"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:80
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:81
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:82
+#, php-format
+msgid "Insert into %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:83
+#, php-format
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:84
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:85
+#, php-format
+msgid "%s list navigation"
+msgstr ""
+
+#: includes/sitecare-toolkit-custom-post-types.php:86
+#, php-format
+msgid "Filter %s list"
+msgstr ""
+
+#: includes/sitecare-toolkit-posts-functions.php:125
+msgid "Read More"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:132
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:133
+msgid "Albania"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:134
+msgid "Algeria"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:135
+msgid "American Samoa"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:136
+msgid "Andorra"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:137
+msgid "Angola"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:138
+msgid "Anguilla"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:139
+msgid "Antarctica"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:140
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:141
+msgid "Argentina"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:142
+msgid "Armenia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:143
+msgid "Aruba"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:144
+msgid "Australia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:145
+msgid "Austria"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:146
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:147
+msgid "Bahamas"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:148
+msgid "Bahrain"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:149
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:150
+msgid "Barbados"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:151
+msgid "Belarus"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:152
+msgid "Belgium"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:153
+msgid "Belize"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:154
+msgid "Benin"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:155
+msgid "Bermuda"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:156
+msgid "Bhutan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:157
+msgid "Bolivia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:158
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:159
+msgid "Botswana"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:160
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:161
+msgid "Brazil"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:162
+msgid "British Antarctic Territory"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:163
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:164
+msgid "British Virgin Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:165
+msgid "Brunei"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:166
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:167
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:168
+msgid "Burundi"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:169
+msgid "Cambodia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:170
+msgid "Cameroon"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:171
+msgid "Canada"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:172
+msgid "Canton and Enderbury Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:173
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:174
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:175
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:176
+msgid "Chad"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:177
+msgid "Chile"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:178
+msgid "China"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:179
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:180
+msgid "Cocos [Keeling] Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:181
+msgid "Colombia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:182
+msgid "Comoros"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:183
+msgid "Congo - Brazzaville"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:184
+msgid "Congo - Kinshasa"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:185
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:186
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:187
+msgid "Croatia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:188
+msgid "Cuba"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:189
+msgid "Cyprus"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:190
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:191
+msgid "Côte d’Ivoire"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:192
+msgid "Denmark"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:193
+msgid "Djibouti"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:194
+msgid "Dominica"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:195
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:196
+msgid "Dronning Maud Land"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:197
+msgid "East Germany"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:198
+msgid "Ecuador"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:199
+msgid "Egypt"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:200
+msgid "El Salvador"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:201
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:202
+msgid "Eritrea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:203
+msgid "Estonia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:204
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:205
+msgid "Falkland Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:206
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:207
+msgid "Fiji"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:208
+msgid "Finland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:209
+msgid "France"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:210
+msgid "French Guiana"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:211
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:212
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:213
+msgid "French Southern and Antarctic Territories"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:214
+msgid "Gabon"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:215
+msgid "Gambia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:216
+msgid "Georgia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:217
+msgid "Germany"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:218
+msgid "Ghana"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:219
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:220
+msgid "Greece"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:221
+msgid "Greenland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:222
+msgid "Grenada"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:223
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:224
+msgid "Guam"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:225
+msgid "Guatemala"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:226
+msgid "Guernsey"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:227
+msgid "Guinea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:228
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:229
+msgid "Guyana"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:230
+msgid "Haiti"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:231
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:232
+msgid "Honduras"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:233
+msgid "Hong Kong SAR China"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:234
+msgid "Hungary"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:235
+msgid "Iceland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:236
+msgid "India"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:237
+msgid "Indonesia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:238
+msgid "Iran"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:239
+msgid "Iraq"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:240
+msgid "Ireland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:241
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:242
+msgid "Israel"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:243
+msgid "Italy"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:244
+msgid "Jamaica"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:245
+msgid "Japan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:246
+msgid "Jersey"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:247
+msgid "Johnston Island"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:248
+msgid "Jordan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:249
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:250
+msgid "Kenya"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:251
+msgid "Kiribati"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:252
+msgid "Kuwait"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:253
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:254
+msgid "Laos"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:255
+msgid "Latvia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:256
+msgid "Lebanon"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:257
+msgid "Lesotho"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:258
+msgid "Liberia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:259
+msgid "Libya"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:260
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:261
+msgid "Lithuania"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:262
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:263
+msgid "Macau SAR China"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:264
+msgid "Macedonia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:265
+msgid "Madagascar"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:266
+msgid "Malawi"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:267
+msgid "Malaysia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:268
+msgid "Maldives"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:269
+msgid "Mali"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:270
+msgid "Malta"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:271
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:272
+msgid "Martinique"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:273
+msgid "Mauritania"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:274
+msgid "Mauritius"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:275
+msgid "Mayotte"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:276
+msgid "Metropolitan France"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:277
+msgid "Mexico"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:278
+msgid "Micronesia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:279
+msgid "Midway Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:280
+msgid "Moldova"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:281
+msgid "Monaco"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:282
+msgid "Mongolia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:283
+msgid "Montenegro"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:284
+msgid "Montserrat"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:285
+msgid "Morocco"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:286
+msgid "Mozambique"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:287
+msgid "Myanmar [Burma]"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:288
+msgid "Namibia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:289
+msgid "Nauru"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:290
+msgid "Nepal"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:291
+msgid "Netherlands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:292
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:293
+msgid "Neutral Zone"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:294
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:295
+msgid "New Zealand"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:296
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:297
+msgid "Niger"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:298
+msgid "Nigeria"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:299
+msgid "Niue"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:300
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:301
+msgid "North Korea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:302
+msgid "North Vietnam"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:303
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:304
+msgid "Norway"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:305
+msgid "Oman"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:306
+msgid "Pacific Islands Trust Territory"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:307
+msgid "Pakistan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:308
+msgid "Palau"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:309
+msgid "Palestinian Territories"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:310
+msgid "Panama"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:311
+msgid "Panama Canal Zone"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:312
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:313
+msgid "Paraguay"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:314
+msgid "People's Democratic Republic of Yemen"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:315
+msgid "Peru"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:316
+msgid "Philippines"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:317
+msgid "Pitcairn Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:318
+msgid "Poland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:319
+msgid "Portugal"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:320
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:321
+msgid "Qatar"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:322
+msgid "Romania"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:323
+msgid "Russia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:324
+msgid "Rwanda"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:325
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:326
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:327
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:328
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:329
+msgid "Saint Martin"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:330
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:331
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:332
+msgid "Samoa"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:333
+msgid "San Marino"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:334
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:335
+msgid "Senegal"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:336
+msgid "Serbia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:337
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:338
+msgid "Seychelles"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:339
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:340
+msgid "Singapore"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:341
+msgid "Slovakia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:342
+msgid "Slovenia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:343
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:344
+msgid "Somalia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:345
+msgid "South Africa"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:346
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:347
+msgid "South Korea"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:348
+msgid "Spain"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:349
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:350
+msgid "Sudan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:351
+msgid "Suriname"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:352
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:353
+msgid "Swaziland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:354
+msgid "Sweden"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:355
+msgid "Switzerland"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:356
+msgid "Syria"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:357
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:358
+msgid "Taiwan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:359
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:360
+msgid "Tanzania"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:361
+msgid "Thailand"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:362
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:363
+msgid "Togo"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:364
+msgid "Tokelau"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:365
+msgid "Tonga"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:366
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:367
+msgid "Tunisia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:368
+msgid "Turkey"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:369
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:370
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:371
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:372
+msgid "U.S. Minor Outlying Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:373
+msgid "U.S. Miscellaneous Pacific Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:374
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:375
+msgid "Uganda"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:376
+msgid "Ukraine"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:377
+msgid "Union of Soviet Socialist Republics"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:378
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:379
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:380
+msgid "United States"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:381
+msgid "Unknown or Invalid Region"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:382
+msgid "Uruguay"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:383
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:384
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:385
+msgid "Vatican City"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:386
+msgid "Venezuela"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:387
+msgid "Vietnam"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:388
+msgid "Wake Island"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:389
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:390
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:391
+msgid "Yemen"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:392
+msgid "Zambia"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:393
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/sitecare-toolkit-string-replace-functions.php:394
+msgid "Åland Islands"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:36
+msgid "SiteCare Author Box"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:38
+msgid "Add an author box to your site"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:140
+msgid "Author Box"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:151
+msgid "Widget title:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:160
+msgid "Select Image"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:164
+msgid "Author name:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:169
+msgid "Author bio:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:174
+msgid "Author page:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:176
+msgid "Select a page"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-author-box-widget.php:216
+msgid "Button text:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:36
+msgid "SiteCare Recent Posts"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:38
+msgid "Display your recent posts"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:145
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:156
+msgid "Widget Title:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:161
+msgid "Post type:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:163
+msgid "Select"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:182
+msgid "Amount of posts to show:"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:188
+msgid "Randomize output?"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:193
+msgid "Display posts in carousel?"
+msgstr ""
+
+#: includes/widgets/sitecare-toolkit-recent-posts-widget.php:197
+msgid "Image size:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.sitecare.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A set of helper functions for theme development."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SiteCare"
+msgstr ""

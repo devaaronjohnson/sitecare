@@ -1,0 +1,21 @@
+.wprm-admin-modal-product {
+    max-width: 600px;
+
+    .wprm-admin-modal-field-container {
+        display: flex;
+        align-items: center;
+
+        min-height: 30px;
+        margin: 10px 0;
+
+        .wprm-admin-modal-field-label,
+        .wprm-admin-modal-field,
+        p {
+            margin: 0;
+        }
+
+        .wprm-admin-modal-field {
+            padding-right: 10px;
+        }
+    }
+}

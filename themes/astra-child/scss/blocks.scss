@@ -1,0 +1,21 @@
+@import "./partials/category-block";
+
+.grillseeker-settings-panel {
+    p {
+        margin-bottom: 15px;
+    }
+    .grillseeker-sortable-category-list {
+        .grillseeker-category {
+            cursor: pointer;
+            &:hover {
+                background-color: #f1f1f1;
+            }
+            h3 {
+                cursor: pointer;
+                margin-bottom: 10px;
+                text-transform: none;
+                font-size: 13px;
+            }
+        }
+    }
+}

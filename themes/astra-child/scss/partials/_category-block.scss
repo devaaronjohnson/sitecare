@@ -1,0 +1,30 @@
+.wp-block-grillseeker-category-block {
+    .wp-block-grillseeker-category-block-content {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr );
+        grid-gap: 20px;
+        row-gap: 20px;
+        .grillseeker-category {
+            text-align: center;
+            .grillseeker-category-icon {
+                img {
+                    width: 60px;
+                }
+            }
+            .grillseeker-category-name  {
+                h3 {
+                    font-size: 14px !important;
+                    text-transform: uppercase;
+                    margin-top: 15px;
+                    margin-bottom: 0;
+                    display: inline-block;
+                }
+            }
+        }
+    }
+    @media(min-width: 768px) {
+        .wp-block-grillseeker-category-block-content {
+            grid-template-columns: repeat(6, 1fr );
+        }
+    }
+}

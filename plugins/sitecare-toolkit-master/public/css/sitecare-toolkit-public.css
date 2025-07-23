@@ -1,0 +1,38 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.sitecare-toolkit-post {
+    margin-bottom: 24px;
+}
+
+.sitecare-toolkit-post:last-child {
+  margin-bottom: 0;
+}
+
+.sitecare-toolkit-post h3 {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.sitecare-toolkit-post span {
+    display: inline-block;
+    padding: 0 5px 0 0;
+}
+
+/** Widget - Recent Posts */
+
+.sitecare-toolkit-recent-posts-widget .sitecare-toolkit-display-posts {
+    flex-direction: column;
+}
+
+.sitecare-toolkit-recent-posts-widget li.recent-posts-widget-post {
+    display: flex;
+}
+
+.sitecare-toolkit-recent-posts-widget ul.sitecare-toolkit-display-posts span.recent-posts-widget-post-image {
+    flex-basis: 20%;
+    margin-right: 12px;
+    max-width: 40px;
+}

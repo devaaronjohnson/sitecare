@@ -1,0 +1,70 @@
+#wprm-admin-faq {
+    * {
+        box-sizing: border-box;
+    }
+
+    p:not(.wprm-admin-onboarding-step-template-preview p) {
+        margin: 15px 0;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    h2:not(.wprm-admin-onboarding-step-template-preview h2) {
+        margin: 2em 0 1em 0;
+    }
+
+    img:not(.wprm-admin-onboarding-step-template-preview img) {
+        display: block;
+
+        max-width: 90%;
+        height: auto;
+
+        margin: 5px auto;
+        border: 1px solid #ccc;
+    }
+
+    ul:not(.wprm-admin-onboarding-step-template-preview ul) {
+        list-style: square;
+        padding-left: 23px;
+        font-size: 15px;
+    }
+
+    .wprm-recipe-template-meadow {
+        max-width: 800px;
+    }
+
+    .wprm-drip-form {
+        margin: 20px 0;
+
+        label[for="drip-email"] {
+            font-weight: bold;
+        }
+
+		input {
+			width: 100%;
+			max-width: 400px;
+			margin: 10px 0;
+
+			&[type=checkbox] {
+                width: 16px;
+                margin-right: 10px;
+			}
+
+			&[type=submit] {
+				max-width: 350px;
+				margin-bottom: 0;
+			}
+		}
+		.wprm-disclaimer {
+			font-size: 0.8em;
+		}
+	}
+}
+
+#wprm-admin-faq-container,
+#wprm-admin-onboarding-steps {
+    max-width: 900px;
+}
+#wprm-admin-onboarding-steps {
+    margin: 0 auto;
+}
